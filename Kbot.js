@@ -15,4 +15,5 @@ client.on("message", (message) => {
  message.delete();
  }
 });
+ cliecnt.login('YOUR_TOKEN')
 }
